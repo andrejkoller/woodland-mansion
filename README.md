@@ -1,28 +1,14 @@
-<div align="left">
-  <h1>Woodland Mansion 🌲🏚️</h1>
-</div>
-<div align="left">
-  <h3>ABOUT THIS GAME</h3>
-</div>
-<div align="left">
-  <p>
-    "You find yourself trapped in what appears to be an abandoned mansion,<br> with only your name in your memory."
-  </p>
-  <p>
-    "It's time to escape this eerie place."
-  </p>
-</div>
 <div align="center">
   <div>
-    <img src="https://github.com/user-attachments/assets/59c912c2-74ea-410b-b342-f2bf24850cd8">
+    <img src="https://github.com/user-attachments/assets/680a8e3b-26c7-4bfa-ac56-2a14a144b6c4">
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/7101581f-3ed3-47f5-862a-4aa9f721e258">
+    <img src="https://github.com/user-attachments/assets/02df170a-75b2-4d1e-8f0b-546c35a420d9">
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/030a8d8a-3cb7-4175-a0a7-8fd0f336357e">
+    <img src="https://github.com/user-attachments/assets/aebd6625-cfc7-4fc6-87b1-d27d5d83abaf">
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/22e89a6c-9c1a-4789-98a7-595aedc3f716">
+    <img src="https://github.com/user-attachments/assets/5d2f0870-8d38-4688-a561-5bfe38c5cfe1">
   </div>
 </div>
