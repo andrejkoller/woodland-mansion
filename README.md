@@ -1,5 +1,9 @@
 # Woodland Mansion 🌲🏚️
 
+[![Download Latest Release](https://img.shields.io/github/v/release/andrejkoller/woodland-mansion?label=Download&style=for-the-badge&logo=windows&color=blue)](https://github.com/andrejkoller/woodland-mansion/releases/latest)
+[![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)](https://www.oracle.com/java/)
+[![JavaFX](https://img.shields.io/badge/JavaFX-21-green?style=for-the-badge&logo=java)](https://openjfx.io/)
+
 ## Short description
 
 "You find yourself trapped in what appears to be an abandoned mansion,  
