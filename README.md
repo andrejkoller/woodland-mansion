@@ -23,13 +23,13 @@ Explore a mysterious mansion, interact with objects, fight monsters, and find yo
 
 ## 🛠️ Technologies Used
 
-- Java 11+ - Core programming language
+- Java 21+ - Core programming language
 - JavaFX - GUI framework for the user interface
 - Maven - Build automation and dependency management
 
 ## 📋 Prerequisites
 
-- Java 11 or higher
+- Java 21 or higher
 - Maven
 
 ## ⚠️ JavaFX Setup
